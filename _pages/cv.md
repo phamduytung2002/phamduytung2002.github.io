@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my detailed CV [here](/files/CV251003_long.pdf) (last updated Oct 3rd, 2025).
+You can find my detailed CV [here](/files/CV251003.pdf) (last updated Oct 3rd, 2025).
 
 <!-- 
 Education
