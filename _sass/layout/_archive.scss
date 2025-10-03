@@ -58,12 +58,18 @@
 }
 
 .archive__item-excerpt {
-  margin-top: 0;
+  margin-top: -1.5em;
+  margin-bottom: -1em;
   font-size: $type-size-6;
 
   & + p {
     text-indent: 0;
   }
+}
+
+.archive__item-download {
+  margin-top: -1em;
+  margin-bottom: 0em;
 }
 
 .archive__item-teaser {
@@ -125,7 +131,8 @@
   }
 
   .archive__item-excerpt {
-    display: none;
+    margin-top: -1.5em;
+    margin-bottom: -1em;
   }
 
   @include breakpoint($small) {
@@ -145,7 +152,9 @@
     }
 
     .archive__item-excerpt {
-      display: block;
+      margin-top: -1.5em;
+      margin-bottom: -1em;
+      // display: block;
       font-size: $type-size-6;
     }
   }
