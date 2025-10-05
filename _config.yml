@@ -32,6 +32,14 @@ author:
   uri              : # URL
   email            : "phamduytung2002@gmail.com" 
 
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "phamduytung2002"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,14 +51,6 @@ author:
   pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "phamduytung2002"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
