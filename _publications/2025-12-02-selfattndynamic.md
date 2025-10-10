@@ -1,10 +1,10 @@
 ---
 title: "Dynamical Properties of Tokens in Self-Attention and Effects of Positional Encoding"
 permalink: /publication/2025-12-02-selfattndynamic
-excerpt: 'Thieu Vo&#42;, <strong>Duy-Tung Pham</strong>&#42;, An Nguyen The&#42;, Viet-Hoang Tran, Nhan-Phu Chung, Xin T. Tong, Tan Minh Nguyen.'
+excerpt: 'Thieu Vo&#42;, <strong>Duy-Tung Pham</strong>&#42;, An Nguyen The&#42;, Viet-Hoang Tran, Nhan-Phu Chung, Xin T. Tong, Tan Minh Nguyen'
 # <br><br> TL;DR: We analyze the flow of tokens across attention layers and use these insights to enhance performance of Transformers.'
-date: 2025-08-18
-venue: 'The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)'
+date: 2025-11-10
+venue: 'The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)'
 # paperurl: 
 bibtexurl: '/files/7_selfattndynamic.bib'
 ---

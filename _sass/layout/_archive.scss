@@ -67,6 +67,15 @@
   }
 }
 
+.archive__item-venue {
+  margin-top: 0.2em;
+  margin-bottom: 1em;
+
+  & + p {
+    text-indent: 0;
+  }
+}
+
 .archive__item-download {
   margin-top: -1em;
   margin-bottom: 0em;
