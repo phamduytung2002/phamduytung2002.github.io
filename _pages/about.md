@@ -39,7 +39,7 @@ Thieu Vo\*, **Duy-Tung Pham**\*, An Nguyen The\*, Viet-Hoang Tran, Nhan-Phu Chun
 Published in Neurocomputing, 2025 <br/>
 Tung Nguyen\*, **Duy-Tung Pham**\*, Linh Ngo Van, Ha-Bang Ban, and Khoat Than
 
-### [Equivariant Neural Functional Networks for Transformers](https://openreview.net/pdf?id=qtTIP5Gjc5)
+### [Equivariant Neural Functional Networks for Transformers](https://openreview.net/forum?id=uBai0ukstY)
 
 Published in The Thirteenth International Conference on Learning Representations (ICLR 2025) <br/>
 Hoang V. Tran\*, Thieu Vo\*, An Nguyen The\*, Tho Tran Huu, Minh-Khoi Nguyen-Nhat, Thanh Tran, **Duy-Tung Pham**, Tan Minh Nguyen
