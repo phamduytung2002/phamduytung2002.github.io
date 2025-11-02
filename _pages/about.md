@@ -32,7 +32,7 @@ Thieu Vo, **Duy-Tung Pham**, Xin T. Tong\*\*, Tan Minh Nguyen\*\*
 ### [Dynamical Properties of Tokens in Self-Attention and Effects of Positional Encoding](https://openreview.net/pdf?id=qtTIP5Gjc5)
 
 Published in The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025) <br/>
-Thieu Vo\*, **Duy-Tung Pham**\*, An Nguyen The\*, Viet-Hoang Tran, Nhan-Phu Chung, Xin T. Tong, Tan Minh Nguyen
+**Duy-Tung Pham**\*, An Nguyen The\*, Viet-Hoang Tran, Nhan-Phu Chung, Xin T. Tong, Tan Minh Nguyen\*\*, Thieu Vo\*\*
 
 ### [Out-of-vocabulary handling and topic quality control strategies in streaming topic models](https://www.sciencedirect.com/science/article/abs/pii/S0925231224015285)
 
