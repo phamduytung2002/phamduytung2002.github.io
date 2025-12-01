@@ -16,10 +16,18 @@ School of Information and Communication Technology ([SoICT](https://soict.hust.e
 
 (A little tip: you can switch between dark and light mode by clicking the button on the right of the CV tab!)
 
-## Selected Publications
+## Research Interest
+My current research interests lie in the mathematical foundations of deep learning, with an emphasis on geometric and dynamical perspectives for designing efficient, scalable, and robust models from first principles.  
+
+## Publications
 **(\*) denotes equal contribution, (\*\*) denotes equal advising.**<br/>
 
 ### [NeuroMax: Enhancing Neural Topic Modeling via Maximizing Mutual Information and Group Topic Regularization](https://aclanthology.org/2024.findings-emnlp.457.pdf)
+
+### [Dynamical Properties of Tokens in Self-Attention and Effects of Positional Encoding](https://openreview.net/pdf?id=qtTIP5Gjc5)
+
+Published in The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025) <br/>
+**Duy-Tung Pham**\*, An Nguyen The\*, Viet-Hoang Tran, Nhan-Phu Chung, Xin T. Tong, Tan Minh Nguyen\*\*, Thieu Vo\*\*
 
 Published in Findings of the Association for Computational Linguistics: EMNLP 2024 <br/>
 **Duy-Tung Pham**&#42;, Trang Nguyen&#42;, Tung Nguyen&#42;, Linh Ngo Van, Duc Anh Nguyen, Thien Huu Nguyen<br/>
@@ -28,11 +36,6 @@ Published in Findings of the Association for Computational Linguistics: EMNLP 20
 
 Published in The Thirteenth International Conference on Learning Representations (ICLR 2025), <span style="color:#FF7777;">Spotlight, top 5.1%</span><br/>
 Thieu Vo, **Duy-Tung Pham**, Xin T. Tong\*\*, Tan Minh Nguyen\*\*
-
-### [Dynamical Properties of Tokens in Self-Attention and Effects of Positional Encoding](https://openreview.net/pdf?id=qtTIP5Gjc5)
-
-Published in The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025) <br/>
-**Duy-Tung Pham**\*, An Nguyen The\*, Viet-Hoang Tran, Nhan-Phu Chung, Xin T. Tong, Tan Minh Nguyen\*\*, Thieu Vo\*\*
 
 ### [Out-of-vocabulary handling and topic quality control strategies in streaming topic models](https://www.sciencedirect.com/science/article/abs/pii/S0925231224015285)
 
@@ -54,3 +57,8 @@ Tung Nguyen\*, **Duy-Tung Pham**\*, Quang Duc Nguyen, Linh Ngo Van, Anh Nguyen D
 Published in Forty-second International Conference on Machine Learning (ICML 2025) <br/>
 Thieu N. Vo\*, Viet-Hoang Tran\*, Tho Tran Huu, An Nguyen The, Thanh Tran, Minh-Khoi Nguyen-Nhat, **Duy-Tung Pham**, Tan Minh Nguyen
 
+## Preprints
+### Mixed-Curvature Tree-Sliced Wasserstein Distance
+
+Under review
+**Duy-Tung Pham\***, Viet-Hoang Tran\*, Thieu N. Vo, Tan Minh Nguyen
