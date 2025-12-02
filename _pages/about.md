@@ -60,6 +60,5 @@ Thieu N. Vo\*, Viet-Hoang Tran\*, Tho Tran Huu, An Nguyen The, Thanh Tran, Minh-
 ## Preprints
 ### Mixed-Curvature Tree-Sliced Wasserstein Distance
 
-Under review
-
+Under review<br/>
 **Duy-Tung Pham\***, Viet-Hoang Tran\*, Thieu N. Vo, Tan Minh Nguyen
