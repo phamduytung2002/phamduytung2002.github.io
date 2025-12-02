@@ -22,12 +22,12 @@ My current research interests lie in the mathematical foundations of deep learni
 ## Publications
 **(\*) denotes equal contribution, (\*\*) denotes equal advising.**<br/>
 
-### [NeuroMax: Enhancing Neural Topic Modeling via Maximizing Mutual Information and Group Topic Regularization](https://aclanthology.org/2024.findings-emnlp.457.pdf)
-
 ### [Dynamical Properties of Tokens in Self-Attention and Effects of Positional Encoding](https://openreview.net/pdf?id=qtTIP5Gjc5)
 
 Published in The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025) <br/>
 **Duy-Tung Pham**\*, An Nguyen The\*, Viet-Hoang Tran, Nhan-Phu Chung, Xin T. Tong, Tan Minh Nguyen\*\*, Thieu Vo\*\*
+
+### [NeuroMax: Enhancing Neural Topic Modeling via Maximizing Mutual Information and Group Topic Regularization](https://aclanthology.org/2024.findings-emnlp.457.pdf)
 
 Published in Findings of the Association for Computational Linguistics: EMNLP 2024 <br/>
 **Duy-Tung Pham**&#42;, Trang Nguyen&#42;, Tung Nguyen&#42;, Linh Ngo Van, Duc Anh Nguyen, Thien Huu Nguyen<br/>
@@ -61,4 +61,5 @@ Thieu N. Vo\*, Viet-Hoang Tran\*, Tho Tran Huu, An Nguyen The, Thanh Tran, Minh-
 ### Mixed-Curvature Tree-Sliced Wasserstein Distance
 
 Under review
+
 **Duy-Tung Pham\***, Viet-Hoang Tran\*, Thieu N. Vo, Tan Minh Nguyen
