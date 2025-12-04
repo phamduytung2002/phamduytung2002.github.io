@@ -1,7 +1,7 @@
 ---
 title: "Equivariant Polynomial Functional Networks"
 permalink: /publication/2025-07-13-polynomialnfn
-excerpt: 'Thieu N. Vo&#42;, Viet-Hoang Tran&#42;, Tho Tran Huu, An Nguyen The, Thanh Tran, Minh-Khoi Nguyen-Nhat, <strong>Duy-Tung Pham</strong>, Tan Minh Nguyen'
+excerpt: 'Thieu Vo&#42;, Viet-Hoang Tran&#42;, Tho Tran Huu, An Nguyen The, Thanh Tran, Minh-Khoi Nguyen-Nhat, <strong>Duy-Tung Pham</strong>, Tan Minh Nguyen'
 # <br><br> TL;DR: We design a family of monomial matrix-equivariant neural functional networks based on a parameter-sharing mechanism that achieves lower memory consumption and running time while preserving expressivity.'
 date: 2025-11-06
 venue: 'Forty-second International Conference on Machine Learning (ICML 2025)'

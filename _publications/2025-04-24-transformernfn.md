@@ -1,7 +1,7 @@
 ---
 title: "Equivariant Neural Functional Networks for Transformers"
 permalink: /publication/2025-04-24-transformernfn
-excerpt: 'Hoang V. Tran&#42;, Thieu Vo&#42;, An Nguyen The&#42;, Tho Tran Huu, Minh-Khoi Nguyen-Nhat, Thanh Tran, <strong>Duy-Tung Pham</strong>, Tan Minh Nguyen'
+excerpt: 'Viet-Hoang Tran&#42;, Thieu Vo&#42;, An Nguyen The&#42;, Tho Tran Huu, Minh-Khoi Nguyen-Nhat, Thanh Tran, <strong>Duy-Tung Pham</strong>, Tan Minh Nguyen'
 # <br><br> TL;DR: This paper systematically studies neural functional networks (NFNs) for Transformers, presenting a design principle, and an equivariant NFN called Transformer-NFN, along with a benchmark dataset for evaluation.'
 date: 2025-11-08
 venue: 'The Thirteenth International Conference on Learning Representations (ICLR 2025)'
