@@ -17,7 +17,9 @@ School of Information and Communication Technology ([SoICT](https://soict.hust.e
 (A little tip: you can switch between dark and light mode by clicking the button on the right of the CV tab!)
 
 ## Research Interest
-My current research interests lie in the mathematical foundations of deep learning, with an emphasis on geometric and dynamical perspectives for designing efficient, scalable, and robust models from first principles.  
+My current research interests lie in the mathematical foundations of deep learning, with an emphasis on geometric and dynamical perspectives for designing efficient, scalable, and robust models from first principles.
+
+<span style="color:#FF7777;">(Looking for PhD in CS/ML)</span><br/> I am seeking PhD positions in Computer Science and Machine Learning to advance research and innovation in the field.
 
 ## Publications
 **(\*) denotes equal contribution, (\*\*) denotes equal advising.**<br/>
