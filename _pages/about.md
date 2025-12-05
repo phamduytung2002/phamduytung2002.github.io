@@ -19,7 +19,7 @@ School of Information and Communication Technology ([SoICT](https://soict.hust.e
 ## Research Interest
 My current research interests lie in the mathematical foundations of deep learning, with an emphasis on geometric and dynamical perspectives for designing efficient, scalable, and robust models from first principles.
 
-<span style="color:#FF7777;">(Looking for PhD in CS/ML)</span><br/> I am seeking PhD positions in Computer Science and Machine Learning to advance research and innovation in the field.
+<span style="color:#FF7777;">**(Looking for PhD in CS/ML)**</span> I am seeking PhD positions in Computer Science and Machine Learning to advance research and innovation in the field.
 
 ## Publications
 **(\*) denotes equal contribution, (\*\*) denotes equal advising.**<br/>
