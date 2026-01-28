@@ -24,6 +24,11 @@ My current research interests lie in the mathematical foundations of deep learni
 ## Publications
 **(\*) denotes equal contribution, (\*\*) denotes equal advising.**<br/>
 
+### [Mixed-Curvature Tree-Sliced Wasserstein Distance](https://openreview.net/forum?id=e439wJl5sT)
+
+Published in The Fourteenth International Conference on Learning Representations (ICLR 2026) <br/>
+**Duy-Tung Pham\***, Viet-Hoang Tran\*, Thieu Vo, Tan Minh Nguyen
+
 ### [Dynamical Properties of Tokens in Self-Attention and Effects of Positional Encoding](https://openreview.net/pdf?id=qtTIP5Gjc5)
 
 Published in The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025) <br/>
@@ -58,9 +63,3 @@ Tung Nguyen\*, **Duy-Tung Pham**\*, Quang Duc Nguyen, Linh Ngo Van, Anh Nguyen D
 
 Published in Forty-second International Conference on Machine Learning (ICML 2025) <br/>
 Thieu Vo\*, Viet-Hoang Tran\*, Tho Tran Huu, An Nguyen The, Thanh Tran, Minh-Khoi Nguyen-Nhat, **Duy-Tung Pham**, Tan Minh Nguyen
-
-## Preprints
-### Mixed-Curvature Tree-Sliced Wasserstein Distance
-
-Under review<br/>
-**Duy-Tung Pham\***, Viet-Hoang Tran\*, Thieu Vo, Tan Minh Nguyen
